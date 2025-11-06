@@ -26,4 +26,13 @@ h1 {
     background-color:cornflowerblue;
 }
 
+table {
+    border-collapse: collapse;
+    border: solid black 1px
+}
+
+th {
+    background-color: black;
+    color: white;
+
 }
