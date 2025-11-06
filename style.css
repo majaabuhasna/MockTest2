@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+.links {
+    text-align: right;
+}
+
+.paragraph {
+    text-align: justify;
+    margin: 10px;
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px
+}
+
+.column {
+    flex: 1;
+    min-width: 300px;
+}
+
+.link:hover {
+    background-color:cornflowerblue;
+}
+
+}
