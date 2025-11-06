@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specialities>
+    <Data_science>
+        <salary>$120,000</salary>
+        <languages quantity="multiple">Java, Python, R</languages>
+        <description>Data scientists, or data analysts, have primary duties to analyse and organise raw data,
+        turning it into meaningful information which can, in turn, help determine trends that will influence
+        business decisions and improve processes.</description>
+    </Data_science>
+    <Web_developer>
+        <salary>$90,000</salary>
+        <languages quantity="multiple">JavaScript, HTMLL, CSS</languages>
+        <description>Web developers, or web programmers, are IT professionals responsible for creating as well
+        as maintaining web applications and websites, whether that is in-house for an employer or on a freelance consultancy basis.</description>
+    </Web_developer>
+    <Software_engineer>
+        <salary>$130,000</salary>
+        <languages quantity="multiple">Java, Python, C++</languages>
+        <description>Software engineers typically employ their knowledge of computer science and
+        mathematics to code new computer software or improve existing ones. </description>
+    </Software_engineer>
+    <Cybersecurity>
+        <salary>$135,000</salary>
+        <languages quantity="singular">JavaScript</languages>
+        <description>IT professionals who work in cybersecurity specialise in creating programmes and processes,
+        for organisations, which safeguard their digital systems, networks and data from unauthorised access,
+        breaches and cyber threats. </description>
+    </Cybersecurity>
+</specialities>

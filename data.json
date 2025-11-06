@@ -1,0 +1,16 @@
+{
+   "devices": [
+     { "hardware": "CPU",
+       "type": "PC",
+       "price_in_usd": 250
+     },
+     { "hardware": "GPU",
+       "type": "PC",
+       "price_in_usd": 850
+     },
+     { "hardware": "Motherboard",
+       "type": "PC",
+       "price_in_usd": 120
+     }
+   ]
+}
