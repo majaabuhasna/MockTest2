@@ -36,3 +36,21 @@ th {
     color: white;
 
 }
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.image {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
