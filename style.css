@@ -62,3 +62,13 @@ input[type="text"] {
 button {
     background-color: rgb(89, 216, 110);
 }
+
+ol {
+    list-style: upper-alpha;
+    border: solid black 1px;
+    margin-right: 80%;
+}
+
+li {
+    font-weight: bold;
+}
